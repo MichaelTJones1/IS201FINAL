@@ -1,0 +1,23 @@
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.light{
+    font-weight: normal;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+.verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.center{
+    text-align: center;
+}
